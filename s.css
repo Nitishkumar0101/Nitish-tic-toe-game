@@ -13,7 +13,7 @@
 }
 
 .cell {
-    background-color: #0edb71;
+    background-color: blue;
     display: flex;
     align-items: center;
     justify-content: center;
